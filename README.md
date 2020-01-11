@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+###HTML, CSS, JavaScript for Web Developers ####Johns Hopkins University #####Coursera
 
-You can use the [editor on GitHub](https://github.com/amruthanair97/coursera-html-css/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera.
+Assignment Links:
+- [Module 2 Assignment](http://goo.gl/4Blt4G)
+- [Module 3 Assignment](http://bit.ly/1mKZzJ5)
+- [Module 4 Assignment](http://bit.ly/21StgWz)
+- [Module 5 Assignment](http://bit.ly/1UWgPJ1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amruthanair97/coursera-html-css/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mockup illustrations are present in the Assignment documents.
