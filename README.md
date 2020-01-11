@@ -19,4 +19,4 @@ Mockup illustrations are present in the Assignment documents.
 - [Module 2 Solution](https://amruthanair97.github.io/coursera-html-css/mod2-soln/index.html) <br>
 - [Module 3 Solution](https://amruthanair97.github.io/coursera-html-css/mod3-Soln/index.html) <br>
 - [Module 4 Solution](https://amruthanair97.github.io/coursera-html-css/Mod4-Soln/index.html) <br>
-- [Module 5 Solution](https://amruthanair97.github.io/coursera-html-css/Mod4-Soln/index.html) <br>
+- [Module 5 Solution](https://amruthanair97.github.io/coursera-html-css/mod5-Soln/index.html) <br>
